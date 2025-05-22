@@ -1,4 +1,4 @@
-package org.example.two_pointers;
+package org.practice.two_pointers;
 
 public class FlippingImage {
     public int[][] flipAndInvertImage(int[][] image) {

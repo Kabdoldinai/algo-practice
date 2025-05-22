@@ -1,4 +1,4 @@
-package org.example.dfs_bfs;
+package org.practice.dfs_bfs;
 
 import java.util.ArrayList;
 import java.util.List;
