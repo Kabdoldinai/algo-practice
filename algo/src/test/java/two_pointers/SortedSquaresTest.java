@@ -1,4 +1,4 @@
-package hashmap_hashset;
+package two_pointers;
 
 import org.junit.jupiter.api.Test;
 import org.practice.two_pointers.SortedSquares;
