@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.practice.sliding_window.LongestSubstringWithoutRepeatingCharacters;
 
-public class LongestSubstringWithoutRepeatingCharactersTest {
+class LongestSubstringWithoutRepeatingCharactersTest {
 
     @Test
     public void shouldReturnThreeWhenGivingThreeLongestSustr() {
