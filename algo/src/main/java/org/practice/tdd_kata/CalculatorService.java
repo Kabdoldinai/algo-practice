@@ -1,4 +1,4 @@
-package org.practice.kata;
+package org.practice.tdd_kata;
 
 public class CalculatorService {
 
