@@ -1,9 +1,9 @@
-package kata;
+package tdd_kata;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-import org.practice.kata.CalculatorService;
+import org.practice.tdd_kata.CalculatorService;
 
 class CalculatorServiceTest {
 
